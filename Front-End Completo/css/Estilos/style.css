@@ -1,0 +1,21 @@
+body{
+    background: black;;
+}
+
+/* CSS por ID */
+
+/*pega todos h1 dentro a partir de  div1*/
+#div1 h1{
+    color:blue;
+}
+
+/*pega todos h1 dentro de div1 que são filhos diretos não vale h1 dentro de subpasta*/
+#div1>h1{
+    color:blue;
+}
+
+
+/* CSS por Classe */
+.div2 h1{
+    color:orange;
+}
