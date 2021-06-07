@@ -1,0 +1,10 @@
+
+*{
+    margin: 0;
+    padding: 0;
+} /*resetando o padrão*/
+
+.menu{
+    width: 900px;
+    background-color: red;
+}
