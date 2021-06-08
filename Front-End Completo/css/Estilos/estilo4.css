@@ -4,7 +4,26 @@
     padding: 0;
 } /*resetando o padrão*/
 
+a{
+    text-decoration: none;
+}
+
 .menu{
     width: 900px;
-    background-color: red;
+    margin: 10px auto;
+    text-align: center;
+    margin-top: 30px;;
 }
+
+.menu a{
+    color: red;
+    font-size: 20px;
+    margin: 0 10px;
+}
+
+
+
+
+
+
+
